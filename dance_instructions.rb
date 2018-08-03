@@ -33,6 +33,7 @@ end
 
 starting_stance
 lower_body
-skip_step
+skip_step_left
+skip_step_right
 bob_the_reins
 lasso
